@@ -1,0 +1,31 @@
+Prix estimé entre 3.7k ~ 4.3k
+
+- Système d'exploitation
+Windows 11 Professional 64 bits
+
+- Processeur
+Intel Core i-913980HX de 13e génération
+24 coeurs, cache L3 36mo
+jusqu'à 5,6GHz avec fréquence Turbo maximale
+
+- Carte vidéo
+Carte graphique NVIDIA
+16 Go de mémoire GGDR6
+GeForce RTX 4090
+
+- Mémoire
+64 Go
+2 x 32 Go de mémoire DDR5
+4 800 MHz
+
+- Disque dur
+2 To (Si possible Dual Drive)
+Disque SSD M.2 PCIe NVMe
+
+- Ecran LCD
+18" FHD+
+(1920 x 1200) 480 Hz
+3 ms, ComfortView Plus
+NVIDIA G-SYNC + DDS
+DCI-P3 100%
+webcam FHD IR
